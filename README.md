@@ -2,13 +2,17 @@ Silicon Standalone.
 
 A standalone software collection for organising musical sounds created using SuperCollider 3.14 (for Mac Silicon).
 
-There are several software versions:
-Example:
+There are several software versions (exemple with Agents):
+
+Basic software agents.
+
 WekAgents  with Wekinator added to control parameters.
+
 AgentsTR  with HPtransformer added.
+
 WekAgentsTR -> with Wekinator and HPtransformer added.
 
-Quick started
+Quick started:
 
 Very important: Unzip the archive and place the software in the ‘Applications’ folder before using it.
 Ensure that MIDI is enabled by default ‘IAC Manager’.
