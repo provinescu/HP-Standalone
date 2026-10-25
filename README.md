@@ -6,6 +6,7 @@ Quick started
 
 Very important:
 Unzip the archive and place the software in the ‘Applications’ folder before using it.
+
 Ensure that MIDI is enabled by default in the ‘IAC Manager’.
 
 Launch the programme.
