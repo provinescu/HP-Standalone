@@ -5,7 +5,8 @@ A standalone software collection for organising musical sounds created using Sup
 Quick started
 
 Very important:
-Unzip the archive and place the software in the ‘Applications’ folder before using it. Ensure that MIDI is enabled by default in the ‘IAC Manager’.
+Unzip the archive and place the software in the ‘Applications’ folder before using it.
+Ensure that MIDI is enabled by default in the ‘IAC Manager’.
 
 Launch the programme.
 A window will open displaying a series of settings.
